@@ -2,7 +2,9 @@
 GUI application that sorts images by date using EXIF data.
 
 ### Features
-- Sorts images by date taken
+- Sorts images into subdirectories based on date taken
+- Options for month, day, minute, hour, and second.
+- Can copy or move files
 - Optionally sorts non-EXIF file formats by date modified into a separate folder
 - Written in C++ with Qt5
 - 64bit
