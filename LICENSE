@@ -23,6 +23,7 @@ SOFTWARE.
 
 Third Party Software:
 
+
 easyexif
 Copyright (c) 2010-2015 Mayank Lahiri
 mlahiri@gmail.com
@@ -47,3 +48,9 @@ modification, are permitted provided that the following conditions are met:
     OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
     EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    
+    
+Qt
+Link to obligations: https://www.qt.io/qt-licensing-terms/
+Link to terms and conditions: https://www.qt.io/terms-conditions/
+Link to download: https://www.qt.io/download/
