@@ -14,6 +14,8 @@ TEMPLATE = app
 
 SOURCES += src/main.cpp\
         src/mainwindow.cpp
+RESOURCES = resources/images.qrc \
+    resources/images.qrc
 
 INCLUDEPATH += ../include\
             ../Sorter/src

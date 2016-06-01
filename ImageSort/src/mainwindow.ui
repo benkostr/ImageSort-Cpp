@@ -441,8 +441,8 @@
    <string>ImageSort</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normaloff>../resources/ImageSort_square.ico</normaloff>../resources/ImageSort_square.ico</iconset>
+   <iconset resource="../resources/images.qrc">
+    <normaloff>:/ImageSort_square.ico</normaloff>:/ImageSort_square.ico</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true"/>
@@ -817,6 +817,8 @@
   </action>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
- <resources/>
+ <resources>
+  <include location="../resources/images.qrc"/>
+ </resources>
  <connections/>
 </ui>
