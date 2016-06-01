@@ -31,7 +31,6 @@ GUI application that sorts images by date using EXIF data.
 </ol>
 
 ### To Do
-- Write Documentation
 - Comment code
 - Port to Linux
 - Optimize
